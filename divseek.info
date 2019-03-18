@@ -1,0 +1,25 @@
+; Hardwood General Info
+; ---------------------
+name = divseek theme
+description = Bootstrap Based Drupal 7 Theme
+core = 7.x
+
+dependencies[] = bootstrap
+dependencies[] = jquery
+
+; Regions
+; ---------------------
+regions[header] = Header
+regions[content] = Main Content
+regions[highlighted] = Highlighted
+regions[sidebar_first] = First Sidebar
+regions[sidebar_second] = Secondary Sidebar
+regions[sponsors] = Sponsors
+regions[footer] = Footer
+
+; Front Page Regions
+; ---------------------
+regions[font_jumbotron] = Front Page Jumbotron
+regions[front_search] = Front Page Search Block
+regions[front_middle] = Front Page Middle Section
+regions[front_footer] = Front Page Last Section (Before Footer)
