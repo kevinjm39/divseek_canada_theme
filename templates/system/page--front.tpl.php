@@ -85,12 +85,9 @@
                             <h1 class="text-center">
                                 Divseek Canada
                             </h1>
-
-
                             <p class="lead text-center">
                                 Description of the Divseek database
                             </p>
-
                           <?php if ($page['front_search']): ?>
                               <div class="row justify-content-center">
                                   <div class="col-12 col-md-8 col-xl-6 input-group-lg es-search-form-in-home">
@@ -156,14 +153,9 @@
                         <?php print render($page['front_middle']) ?>
                       </div>
                 <?php endif; ?>
-
-                <?php if ($page['front_footer']): ?>
-                      <div class="section">
-                        <?php print render($page['front_footer']) ?>
-                      </div>
-                <?php endif; ?>
               <?php endif; ?>
             </div>
+
         </div> <!-- /#main, /#main-wrapper -->
 
         <div id="footer" class="secondary-footer">

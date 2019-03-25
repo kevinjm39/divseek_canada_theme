@@ -1,11 +1,11 @@
-<div class="section bg-inverse main-footer">
+<div class="section bg-gray main-footer">
     <div class="container">
         <div class="row">
             <div class="col-sm-4 text-center">
-                Footer Link 1
+                <a href = "example.com">Footer Link 1</a>
             </div><!-- /.col -->
             <div class="col-sm-4 text-center">
-                Footer Link 2
+                <a href = "example.com"> Footer Link 2</a>
             </div><!-- /.col -->
             <div class="col-sm-4 text-center">
                 <a href="http://tripal.info" target="_blank">
