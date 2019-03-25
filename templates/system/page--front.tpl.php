@@ -72,10 +72,11 @@
  */
 
 ?>
-
 <div id="page-wrapper" class="front-page">
     <div id="page">
-
+        <div class="container">
+      <?php include_once "navbar.inc.php"; ?>
+        </div>
         <!-- FRONT PAGE JUMBOTRON -->
         <div class="jumbotron front-page">
             <div class="jumbotron-inner">
@@ -89,10 +90,13 @@
                                 Description of the Divseek database
                             </p>
                           <?php if ($page['front_search']): ?>
-                              <div class="row justify-content-center">
-                                  <div class="col-12 col-md-8 col-xl-6 input-group-lg es-search-form-in-home">
+                              <div class="row">
+
+                                  <div class="col-md-4 col-sm-2"></div>
+                                  <div class="col-md-6 col-sm-8 input-group-lg es-search-form-in-home">
                                     <?php print render($page['front_search']); ?>
                                   </div>
+                                  <div class="col-md-4 col-sm-2"></div>
                               </div>
                           <?php endif; ?>
                         </div>
@@ -106,7 +110,7 @@
               <?php $main_content_classes = !empty($page['sidebar_first']) || !empty($page['sidebar_second']) ? 'col-sm-8 col-md-9' : 'col-12'; ?>
               <?php if ($page['content']): ?>
                   <div class="section">
-                      <div class="container">
+                      <div class="container bg-gray">
                           <div class="row">
                               <div class="<?php print $main_content_classes; ?>">
                                 <?php if ($messages): ?>
