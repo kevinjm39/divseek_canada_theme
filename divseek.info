@@ -21,6 +21,11 @@ regions[page_top]       = 'Page top'
 regions[page_bottom]    = 'Page bottom'
 
 
+;;; Custom regions
+
+regions[front_search] = 'Front Page Search Block'
+regions[front_middle] = 'Front Middle'
+
 ;;;;;;;;;;;;;;;;;;;;;
 ;; Stylesheets
 ;;;;;;;;;;;;;;;;;;;;;
