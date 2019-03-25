@@ -1,4 +1,4 @@
-This theme is a simple bootstrap extension theme for the Divseek Canada project.
+This theme is a simple bootstrap 3 extension theme for the Divseek Canada project.
 
 
 ## compiling
