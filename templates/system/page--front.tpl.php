@@ -126,7 +126,7 @@
 
                               <div class="col-sm-4 col-md-3">
                                 <?php if ($page['sidebar_first']): ?>
-                                    <div class="card">
+                                    <div class="card card-sidebar">
                                         <div class="card-body">
                                             <div id="sidebar-first"
                                                  class="column sidebar">
@@ -137,7 +137,7 @@
                                 <?php endif; ?>
 
                                 <?php if ($page['sidebar_second']): ?>
-                                    <div class="card">
+                                    <div class="card card-sidebar">
                                         <div class="card-body">
                                             <div id="sidebar-second"
                                                  class="column sidebar">

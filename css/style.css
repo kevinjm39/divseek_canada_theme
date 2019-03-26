@@ -7271,6 +7271,10 @@ button.close {
   height: 15vw;
   object-fit: cover; }
 
+/* line 18, ../scss/_crop_cards.scss */
+.card-sidebar {
+  margin-top: 50px; }
+
 /* line 1, ../scss/_jumbotron.scss */
 .jumbotron {
   border-radius: 0; }
@@ -7733,7 +7737,7 @@ ul.secondary {
 /* line 197, ../scss/_overrides.scss */
 .region-sidebar-first .block:first-child h2.block-title,
 .region-sidebar-second .block:first-child h2.block-title {
-  margin-top: 0; }
+  margin-top: 10px; }
 
 /* line 203, ../scss/_overrides.scss */
 p:last-child {
