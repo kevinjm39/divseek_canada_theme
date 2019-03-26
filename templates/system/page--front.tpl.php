@@ -92,11 +92,11 @@
                           <?php if ($page['front_search']): ?>
                               <div class="row">
 
-                                  <div class="col-md-4 col-sm-2"></div>
-                                  <div class="col-md-6 col-sm-8 input-group-lg es-search-form-in-home">
+                                  <div class="col-sm-4 col-xs-2"></div>
+                                  <div class="col-sm-6 col-xs-6 input-group-lg es-search-form-in-home">
                                     <?php print render($page['front_search']); ?>
                                   </div>
-                                  <div class="col-md-4 col-sm-2"></div>
+                                  <div class="col-sm-4 col-xs-2"></div>
                               </div>
                           <?php endif; ?>
                         </div>
