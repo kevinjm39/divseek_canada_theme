@@ -91,7 +91,6 @@
                             </p>
                           <?php if ($page['front_search']): ?>
                               <div class="row">
-
                                   <div class="col-sm-4 col-xs-2"></div>
                                   <div class="col-sm-6 col-xs-6 input-group-lg es-search-form-in-home">
                                     <?php print render($page['front_search']); ?>

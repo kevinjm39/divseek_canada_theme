@@ -1,0 +1,8 @@
+{
+  "name": "DivSeekCanadaTheme",
+  "version": "0.0.1",
+  "devDependencies": {
+    "bootstrap-3-card": "^0.2.0",
+    "lodash": ">=4.17.11"
+  }
+}
