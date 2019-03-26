@@ -1,6 +1,8 @@
 This theme is a simple bootstrap 3 extension theme for the Divseek Canada project.
 
 
+![Sample Screenshot](screenshot.png)
+
 ## packages
 
 We're using back-ported Bootstrap 4 cards from this [`npm` library ](https://github.com/martinbean/bootstrap-3-card).  This means Run 
@@ -18,4 +20,4 @@ compass watch
 
 Changes in `/scss` will be compiled into `/css`.
 
-Note- change the enviroment variable in `config.rb` from development to production when finalized!
+Note- change the environment variable in `config.rb` from development to production when finalized!
