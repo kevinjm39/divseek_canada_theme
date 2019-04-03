@@ -24,10 +24,10 @@
 
   <div class="col-sm-6 col-md-4">
     <div class="card card-crop">
-      <img class="img-responsive card-img-top" src="<?php print base_path() . drupal_get_path('theme', 'divseek')  . '/dist/images/gjetval_sunflower/image002.jpg'; ?>" alt="Card image cap" title="Sunflower, by Branimir Gjetval.">
+      <img class="img-responsive card-img-top" src="<?php print base_path() . drupal_get_path('theme', 'divseek')  . '/dist/images/gjetvaj_sunflower/image002.jpg'; ?>" alt="Card image cap" title="Sunflower, by Branimir Gjetval.">
       <div class="card-block">
         <h4 class="card-title"><a href="/bio_data/10">Sunflower</a></h4>
-          <a class="card-text">Summary of sunflower.  Image by <a href="http://branimirphoto.ca/">Branimir Gjetval.</a></p>
+          <p class="card-text">Summary of sunflower.  Image by <a href="http://branimirphoto.ca/">Branimir Gjetval.</a></p>
       </div>
     </div>
   </div>
