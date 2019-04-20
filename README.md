@@ -21,3 +21,7 @@ compass watch
 Changes in `/scss` will be compiled into `/css`.
 
 Note- change the environment variable in `config.rb` from development to production when finalized!
+
+# Static pages
+
+Static pages are in `misc/`.  These pages such as `front_page.php` or the about page are in here.

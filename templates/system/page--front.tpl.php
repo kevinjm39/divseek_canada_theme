@@ -87,7 +87,7 @@
                                 Divseek Canada
                             </h1>
                             <p class="lead text-center">
-                                Description of the Divseek database
+                                DivSeek Canada Crop Genomics and Breeding Resources
                             </p>
                           <?php if ($page['front_search']): ?>
                               <div class="row">
