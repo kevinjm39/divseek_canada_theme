@@ -2,7 +2,7 @@
   border-radius: 0;
   &.front-page {
     padding: 0;
-    background: url('../dist/images/sunflowers.jpg') center center fixed;
+    background: url('../dist/images/lentil_field.png');
     color: #f9f9f9;
     margin-bottom: 0;
     -webkit-background-size: cover;
@@ -18,6 +18,6 @@
   }
   .jumbotron-inner {
     padding: 4rem 0;
-    background-color: rgba(#222, .7);
+    background-color: rgba(#222, .3);
   }
 }

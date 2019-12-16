@@ -7281,7 +7281,7 @@ button.close {
   /* line 3, ../scss/_jumbotron.scss */
   .jumbotron.front-page {
     padding: 0;
-    background: url("../dist/images/sunflowers.jpg") center center fixed;
+    background: url("../dist/images/lentil_field.png");
     color: #f9f9f9;
     margin-bottom: 0;
     -webkit-background-size: cover;
@@ -7297,7 +7297,7 @@ button.close {
   /* line 19, ../scss/_jumbotron.scss */
   .jumbotron .jumbotron-inner {
     padding: 4rem 0;
-    background-color: rgba(34, 34, 34, 0.7); }
+    background-color: rgba(34, 34, 34, 0.3); }
 
 /* line 41, ../node_modules/bootstrap-3-card/sass/_card.scss */
 .card {
